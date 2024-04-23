@@ -1,0 +1,14 @@
+C:\Users\PICHAU\Desktop\programação\Godot Dio\bin\Debug\net8.0\Godot Dio.exe
+C:\Users\PICHAU\Desktop\programação\Godot Dio\bin\Debug\net8.0\Godot Dio.deps.json
+C:\Users\PICHAU\Desktop\programação\Godot Dio\bin\Debug\net8.0\Godot Dio.runtimeconfig.json
+C:\Users\PICHAU\Desktop\programação\Godot Dio\bin\Debug\net8.0\Godot Dio.dll
+C:\Users\PICHAU\Desktop\programação\Godot Dio\bin\Debug\net8.0\Godot Dio.pdb
+C:\Users\PICHAU\Desktop\programação\Godot Dio\obj\Debug\net8.0\Godot Dio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\Desktop\programação\Godot Dio\obj\Debug\net8.0\Godot Dio.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Desktop\programação\Godot Dio\obj\Debug\net8.0\Godot Dio.AssemblyInfo.cs
+C:\Users\PICHAU\Desktop\programação\Godot Dio\obj\Debug\net8.0\Godot Dio.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Desktop\programação\Godot Dio\obj\Debug\net8.0\Godot Dio.dll
+C:\Users\PICHAU\Desktop\programação\Godot Dio\obj\Debug\net8.0\refint\Godot Dio.dll
+C:\Users\PICHAU\Desktop\programação\Godot Dio\obj\Debug\net8.0\Godot Dio.pdb
+C:\Users\PICHAU\Desktop\programação\Godot Dio\obj\Debug\net8.0\Godot Dio.genruntimeconfig.cache
+C:\Users\PICHAU\Desktop\programação\Godot Dio\obj\Debug\net8.0\ref\Godot Dio.dll
